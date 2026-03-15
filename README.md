@@ -9,9 +9,9 @@
 
 ## Overview
 
-Unsupervised dimensionality reduction of a 4D-STEM dataset from a WS₂/WSe₂ lateral heterojunction, reproducing and extending the hierarchical clustering approach of Shi et al. (2022). The pipeline covers probe alignment, reciprocal-space masking, STD-based feature selection, manifold visualization, hierarchical K-means clustering, and learned latent-space representations via a fully connected autoencoder (AE) and variational autoencoder (VAE) implemented in PyTorch.
+Unsupervised dimensionality reduction of a 4D-STEM dataset from a WS₂/WSe₂ lateral heterojunction. The project reproduces the hierarchical K-means clustering of Shi et al. (2022) and extends it with fully connected autoencoder (AE) and variational autoencoder (VAE) models in PyTorch, comparing learned latent-space representations against the handcrafted STD-feature baseline.
 
-Dataset and reference clustering methodology from: Shi et al., *npj Computational Materials* **8**, 114 (2022).
+Dataset and reference methodology: Shi et al., *npj Computational Materials* **8**, 114 (2022).
 
 ---
 
