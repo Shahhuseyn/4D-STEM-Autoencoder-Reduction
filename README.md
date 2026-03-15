@@ -3,7 +3,7 @@
 **Course:** Data Science for Electron Microscopy | FAU Erlangen-Nürnberg  
 **Tools:** Python · PyTorch · NumPy · Matplotlib · scikit-learn · h5py
 
-💻 [Notebook (report + code)](Miniproject_2.ipynb)
+💻 [Notebook (report + code)](4D_STEM_autoencoder_VAE.ipynb)
 
 ---
 
