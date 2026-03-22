@@ -23,7 +23,7 @@ The raw 4D-STEM dataset (`cbed_wide2.mat`) is loaded from HDF5 format. Probe dri
 
 <table>
   <tr>
-    <td align="center"><img src="figures/adf_image.png" width="420"/></td>
+    <td align="center"><img src="figures/adf_image.png" width="380"/></td>
   </tr>
   <tr>
     <td align="center">ADF image — WS₂/WSe₂ lateral heterojunction flake. The outer triangular region is WS₂; the inner ring is WSe₂. Tungsten-dominated contrast makes the two materials indistinguishable here.</td>
@@ -40,7 +40,7 @@ The STD-masked feature vectors from all scan positions are projected to 3D using
 
 <table>
   <tr>
-    <td align="center"><img src="figures/manifold.png" width="420"/></td>
+    <td align="center"><img src="figures/manifold.png" width="380"/></td>
   </tr>
   <tr>
     <td align="center">UMAP manifold of all diffraction patterns. Distinct point clouds correspond to background (vacuum/substrate), WS₂, and WSe₂ — confirming that the STD-masked features carry sufficient structural contrast for unsupervised separation.</td>
